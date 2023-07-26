@@ -8,7 +8,7 @@
 }
 
 body{
-    background: rgb(249, 226, 229);
+    background: rgb(246, 205, 255);
     min-height: 100vh;
     overflow-x: hidden;
 }
@@ -27,7 +27,7 @@ header{
 
 .logo{
     font-size: 3em;
-    color: rgb(8, 86, 86);
+    color: #281063;
     pointer-events: none;
     margin-right: 270px;
 
@@ -44,7 +44,7 @@ header{
 }
 
 .navigation a:hover, .navigation a.active{
-    background: rgb(8, 86, 86);
+    background: #281063;
     color: aliceblue;
 }
 
@@ -73,7 +73,7 @@ header{
 
 .sec{
     position: relative;
-    background-color:#003329;
+    background-color:#281063;
     padding: 100px;
     margin-top: 50px;
 }
